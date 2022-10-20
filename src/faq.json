@@ -2,61 +2,52 @@
     {
       "id": 1,
       "question": "What can I do here?",
-      "answer": "This is the E-buy Support's frequently asked questions. You can ask questions about creating an account, order payment options, checking the status of your order or return requests."
+      "answer": "This is a money exchange application, which is fully based on blockchain technology. Our Purpose is to provide fast transaction accross the world. "
     },
     {
       "id": 2,
-      "question": "How do I create an account?",
-      "answer": "You can create your account by entering and verifying your mobile number. Click on \"Create New Account\" after that and fill up the form to create your account."
+      "question": "How do I create an metamask account?",
+      "answer": "after installing the MetaMask wallet, click on the MetsMask icon in the toolbar of your browser. Then click on Get Started. Click Create a Wallet to create an Atrium wallet. At this stage, you announce your agreement or disagreement with whether or not Metamask Wallet collects your user data."
     },
     {
       "id": 3,
-      "question": "How can I pay for my order?",
-      "answer": "We support the following payment options:\n Cash On Delivery (available in selected pin codes), \nCredit Card, \nDebit Card, \nNet banking and \nGift Card."
+      "question": "How to withdraw money from metamask?",
+      "answer": "To withdraw money from MetaMask to your bank account, you need to send your Ethereum to a cryptocurrency exchange like Binance. Next, sell your Ethereum on Binance and withdraw it to your bank account. You won’t be able to sell your Ethereum on MetaMask. Hence, you need to send your Ethereum to a cryptocurrency exchange like Binance."
     },
     {
       "id": 4,
-      "question": "How can I check delivery to my PIN Code?",
-      "answer": "You can find out if we deliver to your PIN Code using the courier serviceability tool available on the product page."
+      "question": "How do I transfer my metamask wallet to another account?",
+      "answer": "Simply copy your new MetaMask public address and go to your existing wallet or exchange to send funds to your new wallet address. You can find your MetaMask address under account name (in the format 0x12r45...6HJ9)."
     },
     {
       "id": 5,
-      "question": "How do I check the status of my order?",
-      "answer": "Please tap on \"My Orders\" section under main menu of App or Website to check your order status."
+      "question": "How does metamask keep my data private?",
+      "answer": "MetaMask keeps your wallet data private unless you authorize permission to share your account address. You will see a MetaMask confirmation when websites request access to view your account address. Transactions made using MetaMask are registered on Ethereum blockchain and are publicly available."
     },
     {
       "id": 6,
-      "question": "What is the Cancellation Policy?",
-      "answer": "You can cancel an order when it is in packed or shipped status, as long as the cancel option is available on App or Website."
+      "question": "What is metamask (MTM)?",
+      "answer": "Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets. MetaMask provides the simplest yet most secure way to connect to blockchain-based applications."
     },
     {
       "id": 7,
-      "question": "How do I cancel my Order?",
-      "answer": "Tap on \"My Orders\" section under the main menu of your App or Website and then select the item or order you want to cancel"
+      "question": "What is a transaction in metamask?",
+      "answer": "Sending Transactions Transactions are a formal action on a blockchain. They are always initiated in MetaMask with a call to the eth_sendTransaction method. They can involve a simple sending of ether, may result in sending tokens, creating a new smart contract, or changing state on the blockchain in any number of ways."
     },
     {
       "id": 8,
-      "question": "I just cancelled my order. When will I receive my refund?",
-      "answer": "For payments made via Credit Card, Debit Card, Net Banking, or Wallet you will receive refund into the source account within 7-10 days from the time of order cancellation."
+      "question": "How to Speed Up or Cancel Transactions on MetaMask",
+      "answer": "Click the speed up button and pay extra to make sure your transaction goes through ASAP OR click the cancel button and pay a little extra to cancel your transaction"
     },
     {
       "id": 9,
-      "question": "How do I create a Return Request?",
-      "answer": "You can create a Return in three simple steps.\n 1. Tap on My Orders. \n 2. Choose the item to be Returned. \n 3.Enter details requested and create a return request."
+      "question": "How to deposit and withdraw via MetaMask?",
+      "answer": "Before depositing Ether into your MetaMask, you first have to set it up. If youâ€™re looking to setting up your MetaMask for desktop and mobile, this article on setting up your MetaMask will show you how."
     },
+    
     {
-      "id": 10,
-      "question": "How do I return multiple products from a single order?",
-      "answer": "If you are returning multiple products from a single order then, you will receive a separate Return ID via e-mail for each item. If you are self-shipping the products, you can ship all the products in a single shipment."
-    },
-    {
-      "id": 11,
-      "question": "How long would it take me to receive the refund of the returned product?",
-      "answer": "After the refund has been initiated as per the Returns Policy, the refund amount is expected to reflect in the customer account in 1-3 business days."
-    },
-    {
-        "id": 12,
-        "question": "Tell me about founders?",
-        "answer": "Founders are Md safa, humaiyun kabir, asif ahmed & arman hasan"
+        "id": 10,
+        "question": "Tell me about founder?",
+        "answer": "Asif Ahmed Sahil is the founders of secure & safe 🙂 "
       }
   ]

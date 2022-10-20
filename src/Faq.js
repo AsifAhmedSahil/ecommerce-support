@@ -16,7 +16,7 @@ export const Faq = ({ index, setIndex, currentFaqId, setCurrentFaqId }) => {
   return (
     <Flex direction="column" p={4}>
       <Box mb="8">
-        <Heading size="md">Frequently Asked Questions</Heading>
+        <Heading size="lg"color="red.400" display="flex" justifyContent="center">Frequently Asked Questions About Metamask & Transaction</Heading>
       </Box>
       <Accordion allowToggle index={index}>
         {FAQ_LIST.map(faq => (

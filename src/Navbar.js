@@ -5,9 +5,9 @@ import { ColorModeSwitcher } from './ColorModeSwitcher';
 
  const Navbar = ({ toggleColorFlag }) => {
   return (
-    <Flex align="center" boxShadow="base" p="2" mb="2">
-    <Box   p="2">
-      <Heading display="flex" alignItems="center" size="lg" >E-buy Support </Heading>
+    <Flex align="center" boxShadow="base" p="2" mb="2">  
+    <Box   p="2" >
+      <Heading display="flex" alignItems="center"   size="lg" >Secure N Safe - Support </Heading>
     </Box>
     <Spacer />
     <Box>
